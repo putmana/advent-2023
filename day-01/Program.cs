@@ -4,11 +4,12 @@
     {
         static void Main(string[] args)
         {
-            var total = GetTotal("input.txt");
-            Console.WriteLine(total);
+            var partOne = PartOne("input.txt");
+            Console.WriteLine(partOne);
         }
 
-        static int GetTotal(string path)
+        // PART ONE
+        static int PartOne(string path)
         {
             // Open and read the file
             var lines = File.ReadAllLines(path);
