@@ -1,0 +1,15 @@
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/bin/Debug/net8.0/day-01
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/bin/Debug/net8.0/day-01.deps.json
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/bin/Debug/net8.0/day-01.runtimeconfig.json
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/bin/Debug/net8.0/day-01.dll
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/bin/Debug/net8.0/day-01.pdb
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.AssemblyInfoInputs.cache
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.AssemblyInfo.cs
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.csproj.CoreCompileInputs.cache
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.sourcelink.json
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.dll
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/refint/day-01.dll
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.pdb
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/day-01.genruntimeconfig.cache
+/Users/adam/Dropbox/Code/Advent-of-Code/advent-2023/day-01/obj/Debug/net8.0/ref/day-01.dll
